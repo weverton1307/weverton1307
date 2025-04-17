@@ -5,6 +5,13 @@ Desenvolvedor Java | JavaScript | | CSS | HTML
 Olá, sou desenvolvedor Java e adoro desenvolver aplicações e websites!  
 Atualmente estudando Node.js, React e Docker para expandir meus conhecimentos em desenvolvimento fullstack.
 
+## 📞 Contato
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5561991849027)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+
 ---
 
 ## 🚀 Tecnologias
