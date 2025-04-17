@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou o Weverton!
 
-<!--
-**weverton1307/weverton1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Java | JavaScript | | CSS | HTML 
 
-Here are some ideas to get you started:
+Olá, sou desenvolvedor Java e adoro desenvolver aplicações e websites!  
+Atualmente estudando Node.js, React e Docker para expandir meus conhecimentos em desenvolvimento fullstack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+### Linguagens:
+- Java
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### Frameworks e Bibliotecas:
+- Spring Boot
+- Node.js (em estudo)
+- React (em estudo)
+
+### Banco de Dados:
+- MySQL
+- MongoDB
+- PostgreSQL (em estudo)
+
+### Ferramentas:
+- Git Bash
+- Postman
+- SQL Developer
+- NetBeans
+- Visual Studio Code
+
+---
+
+## 📚 Estudando atualmente:
+- Node.js
+- React
+- Docker
+- SQL Developer
+- PostgreSQL
+
+---
+
+*Obrigado por visitar meu perfil!*
+
+
+
