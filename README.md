@@ -7,9 +7,10 @@ Atualmente estudando Node.js, React e Docker para expandir meus conhecimentos em
 
 ## 📞 Contato
 
+## 📞 Contato
+
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5561991849027)
-[![LinkedIn]
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto: wevmetal@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:wevmetal@gmail.com)
 
 
 ---
